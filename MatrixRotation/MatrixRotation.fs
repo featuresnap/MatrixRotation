@@ -1,6 +1,4 @@
-﻿module MatrixRotation
-
-let values = array2D [[1;2];[3;4]]
+module MatrixRotation
 
 let private getColumnAsArray n (array:'a[,])  =
     let colN = n + Array2D.base2 array
