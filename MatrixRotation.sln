@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MatrixRotation.Tests", "MatrixRotation.Tests\MatrixRotation.Tests.fsproj", "{899F115B-B6C7-4AB9-A045-6DB6A679503F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MatrixRotation", "MatrixRotation\MatrixRotation.fsproj", "{AC473002-F7B0-4C46-BABA-2E70E10142CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899F115B-B6C7-4AB9-A045-6DB6A679503F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899F115B-B6C7-4AB9-A045-6DB6A679503F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899F115B-B6C7-4AB9-A045-6DB6A679503F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899F115B-B6C7-4AB9-A045-6DB6A679503F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC473002-F7B0-4C46-BABA-2E70E10142CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC473002-F7B0-4C46-BABA-2E70E10142CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC473002-F7B0-4C46-BABA-2E70E10142CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC473002-F7B0-4C46-BABA-2E70E10142CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
