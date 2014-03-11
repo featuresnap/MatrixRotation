@@ -1,8 +1,0 @@
-c:\users\pkelly\documents\visual studio 2012\Projects\MatrixRotation\MatrixRotation\bin\Debug\MatrixRotation.XML
-c:\users\pkelly\documents\visual studio 2012\Projects\MatrixRotation\MatrixRotation\bin\Debug\MatrixRotation.dll
-c:\users\pkelly\documents\visual studio 2012\Projects\MatrixRotation\MatrixRotation\bin\Debug\MatrixRotation.pdb
-c:\users\pkelly\documents\visual studio 2012\Projects\MatrixRotation\MatrixRotation\bin\Debug\FSharp.Core.dll
-c:\users\pkelly\documents\visual studio 2012\Projects\MatrixRotation\MatrixRotation\bin\Debug\FSharp.Core.xml
-c:\users\pkelly\documents\visual studio 2012\Projects\MatrixRotation\MatrixRotation\obj\Debug\MatrixRotation.fsprojResolveAssemblyReference.cache
-c:\users\pkelly\documents\visual studio 2012\Projects\MatrixRotation\MatrixRotation\obj\Debug\MatrixRotation.dll
-c:\users\pkelly\documents\visual studio 2012\Projects\MatrixRotation\MatrixRotation\obj\Debug\MatrixRotation.pdb
